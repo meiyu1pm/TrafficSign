@@ -7,10 +7,10 @@ I am predicting a row in the form: id, class,x1,y1,x2,y2 for each image where x1
 - sample.csv - A sample submission file in the correct format. This shows you how your submission file should look.
 
 ## Columns
-id - Identification of png image in dataset.
-new_path - Path to png image in dataset.
-class - Number from 0-4 that defines the class of the sign.
-x1 - X coordinate of bounding bottom box corner.
-y1 - Y coordinate of bounding bottom box corner.
-x2 - X coordinate of bounding top box corner.
-y2 - Y coordinate of bounding top box corner.
+- id - Identification of png image in dataset.
+- new_path - Path to png image in dataset.
+- class - Number from 0-4 that defines the class of the sign.
+- x1 - X coordinate of bounding bottom box corner.
+- y1 - Y coordinate of bounding bottom box corner.
+- x2 - X coordinate of bounding top box corner.
+- y2 - Y coordinate of bounding top box corner.
